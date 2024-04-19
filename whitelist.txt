@@ -1,8 +1,3 @@
-@@||daftsex.com^
-@@||sxyprn.com^
-@@||pornflip.com^
-@@||frprn.com^
-@@||pornve.com^
 @@||soft-babez.cc^
 @@||www.pornflip.com^
 @@||www.okcupid.com^
@@ -22,7 +17,6 @@
 @@||history.google.com^
 @@||i.instagram.com^
 @@||daxab.com^
-@@||hqporner.com^
 @@||teams.events.data.microsoft.com^
 @@||mail.google.com^
 @@||hangouts.google.com^
@@ -44,7 +38,6 @@
 @@||s3.ll.videorolls.row.aiv-cdn.net^
 @@||cloudfront.xp-assets.aiv-cdn.net^
 @@||dmqdd6hw24ucf.cloudfront.net^
-@@||xhamster.com^
 @@||platform.securityscorecard.io^
 @@||outlook.live.com^
 @@||www.delhivery.com^
@@ -95,8 +88,6 @@
 @@||geekflare.com^
 @@||githubusercontent.com^
 @@||upgrad.com^
-@@||pornzog.com^
-@@||spankbang.party^
 @@||alternativeto.net^
 @@||disqus.com^
 @@||flipkart.com^
@@ -111,7 +102,6 @@
 @@||www.theamethyststore.com^
 @@||scontent.cdninstagram.com^
 @@||sourceforge.net^
-@@||www.xvideos.com^
 @@||netflix.com^
 @@||www.medibuddy.in^
 @@||emea.flow.microsoft.com^
@@ -153,7 +143,6 @@
 @@||quora.com^
 @@||temp-mail.org^
 @@||wynk.in^
-@@||ixxx.com^
 @@||fossbytes.com^
 @@||adguard-dns.io^
 @@||scontent-los2-1.cdninstagram.com^
@@ -402,9 +391,6 @@
 @@||mag-eu-amazon.com^
 @@||unagi-eu.amazon.com^
 @@||fls-eu.amazon.in^
-@@||adserver-1277986481.ap-northeast^
-@@||adserver-clarium-1405844056.eu^
-@@||adserver-2084671375.us-east-1.elb^
 @@||rpc-tapjoy-com-lb-1378811527.us-east^
 @@||ads-c-1854119718.us-west-1.elb^
 @@||beaconserver-ce-vpc0-1909323404.us^
@@ -473,23 +459,16 @@
 @@||braze.com^
 @@||emb-api.com^
 @@||siftscience.com^
-@@||masahub.net^
 @@||pi-hole.net^
-@@||incestflix.win^
-@@||xvideos.com^
-@@||xfantazy.com^
 @@||mdisk.me^
 @@||www.ey.com^
 @@||thevault.ey.net^
 @@||eyclienthub.com^
 @@||docker.com^
-@@||xhamster^
 @@||nurd.com^
 @@||servicenow.com^
 @@||geekscircuit.com^
 @@||itsvineeth.tech^
-@@||daftsex.com^$important
-@@||sxyprn.com^$important
 @@||pingidentity.com^$important
 @@||goauthentik.io^$important
 @@||chrome.google.com^$important
