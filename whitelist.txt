@@ -319,7 +319,6 @@
 @@||s.ytimg.com^$important
 @@||s1.wp.com^$important
 @@||s2.youtube.com^$important
-@@||s3.amazonaws.com^$important
 @@||sa.symcb.com^$important
 @@||secure.avangate.com^$important
 @@||secure.brightcove.com^$important
@@ -422,7 +421,6 @@
 @@||firebaseinstallations.googleapis.com^$important
 @@||photosdata-pa.googleapis.com^$important
 @@||tracking.dtdc.com^$important
-@@||gt-linckia.s3.amazonaws.com^$important
 @@||gt-attachment-gcp.s3.ap-south-1.amazonaws.com^$important
 @@||cdn.shopify.com^$important
 @@||instafeed.nfcube.com^$important
