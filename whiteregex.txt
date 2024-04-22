@@ -2,12 +2,10 @@
 (\.|^)ey\.com$
 (\.|^)ey\.net$
 (\.|^)mparticle\.com$
-(\.|^)braze\.com$
 (\.|^)emb-api\.com$
 (\.|^)siftscience\.com$
 (\.|^)pi-hole\.net$
 (\.|^)github\.com$
-(\.|^)mdisk\.me$
 (\.|^)www\.ey\.com$
 (\.|^)thevault\.ey\.net$
 (\.|^)eyclienthub\.com$
@@ -54,7 +52,6 @@
 (\.|^)cvmailuk\.com$
 (\.|^)godaddy\.com$
 (\.|^)udemycdn\.com$
-(\.|^)gvt1\.com$
 (\.|^)primevideo\.com$
 (\.|^)axisbank\.co\.in$
 (\.|^)hdfcbank\.com$
@@ -63,18 +60,15 @@
 (\.|^)apple\.com$
 (\.|^)icloud\.com$
 (\.|^)parivahan\.gov\.in$
-(\.|^)eporner\.com$
 (\.|^)cloudflare\.com$
 (\.|^)cloudfront\.net$
 (\.|^)rockylinux\.org$
 (\.|^)bitsighttech\.com$
 (\.|^)bitsighttech$
-(\.|^)sxyprn\.com$
 (\.|^)lionsgateplay\.com$
 (\.|^)piwik\.pro$
 (\.|^)playco\.com$
 (\.|^)akamaized\.net$
-(\.|^)nice264\.com$
 (\.|^)googleusercontent\.com$
 (\.|^)payu\.in$
 (\.|^)sturls\.com$
@@ -82,6 +76,5 @@
 (\.|^)yodiz\.com$
 (\.|^)cdninstagram\.com$
 (\.|^)geekywire\.com$
-(\.|^)noodlemagazine\.com$
 (\.|^)fbcdn\.net$
 (\.|^)redditmedia\.com$
