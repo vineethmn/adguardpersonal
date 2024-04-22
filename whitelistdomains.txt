@@ -468,3 +468,9 @@ itsvineeth.tech
 pingidentity.com
 goauthentik.io
 chrome.google.com
+eu-teams.events.data.microsoft.com
+noam.presence.teams.microsoft.com
+pub-ent-auea-06-t.trouter.teams.microsoft.com
+pub-ent-krce-04-t.trouter.teams.microsoft.com
+api.flightproxy.teams.microsoft.com
+eu-teams.events.data.microsoft.com
