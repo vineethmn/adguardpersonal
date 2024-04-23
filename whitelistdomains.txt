@@ -488,3 +488,4 @@ gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 spclient.wg.spotify.com apresolve.spotify.com
 www.redditstatic.com
+www.redgifs.com
