@@ -692,10 +692,10 @@ bifrost-api.hotstar.com
 brand-img1.hotstarext.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
-hesads.akamaized.net
 hses7-vod-cf-ace.cdn.hotstar.com
 img10.hotstar.com
 secure-media.hotstar.com
 shifu.hotstarext.com
 www.hotstar.com
 *.hotstarext.com
+*.cdn.hotstar.com
