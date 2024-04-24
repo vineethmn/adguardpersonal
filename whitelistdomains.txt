@@ -686,6 +686,8 @@ eur01.safelinks.protection.outlook.com
 *.intercomcdn.com
 *.upguard.com
 *.intercom.help
+gravatar.com
+s.gravatar.com
 mytools.management
 *.intercomassets.com
 bifrost-api.hotstar.com
