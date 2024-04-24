@@ -677,7 +677,8 @@ cstat.cdn-apple.com
 @@||api.flightproxy.teams.microsoft.com^
 @@||eu-teams.events.data.microsoft.com^
 @@||teams.microsoft.com^$important
-@@||bifrost-@@||api.hotstar.com^$important
+@@||bifrost-api.hotstar.com^$important
+@@||*.hotstarext.com^$important
 @@||cdn.whatsapp.net^$important
 @@||whatsapp.net^$important
 @@||eur01.safelinks.protection.outlook.com^$important
