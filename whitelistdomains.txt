@@ -669,9 +669,7 @@ cstat.cdn-apple.com
 @@||*.push.apple.com^$important
 @@||xp.apple.com^$important
 @@||push-apple.com^$important
-
 #MS and 3rd party
-
 @@||eu-teams.events.data.microsoft.com^
 @@||noam.presence.teams.microsoft.com^
 @@||pub-ent-auea-06-t.trouter.teams.microsoft.com^
