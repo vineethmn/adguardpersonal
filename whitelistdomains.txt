@@ -701,3 +701,6 @@ shifu.hotstarext.com
 www.hotstar.com
 *.hotstarext.com
 *.cdn.hotstar.com
+telegram.org
+*.cdn-telegram.org
+t.me
