@@ -137,6 +137,7 @@ g.whatsapp.net
 pps.whatsapp.net
 mmg.whatsapp.net
 e13.whatsapp.net
+*.fna.whatsapp.net
 aws.amazon.com
 quora.com
 temp-mail.org
