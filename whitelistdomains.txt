@@ -679,6 +679,7 @@ teams.microsoft.com
 bifrost-api.hotstar.com
 *.hotstarext.com
 cdn.whatsapp.net
+*.cdn.whatsapp.net
 whatsapp.net
 eur01.safelinks.protection.outlook.com
 *.protection.outlook.com
