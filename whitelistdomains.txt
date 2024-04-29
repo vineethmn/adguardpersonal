@@ -484,13 +484,9 @@ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
 settings-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
-itunes.apple.com
-gsp-ssl.ls.apple.com
-gsp-ssl.ls-apple.com.akadns.net
 spclient.wg.spotify.com apresolve.spotify.com
 www.redditstatic.com
 www.redgifs.com
-
 #apple
 |push.apple.com
 1.courier-push-apple.com.akadns.net
@@ -669,6 +665,27 @@ amp-api-edge.apps.apple.com
 init.push.apple.com
 *.push.apple.com
 xp.apple.com
+init-p01md.apple.com
+query.ess.apple.com
+init.ess.apple.com
+iphone-ld.apple.com
+ca.iadsdk.apple.com
+bag.itunes.apple.com
+mzstorekit.itunes.apple.com
+doh.dns.apple.com.v.aaplimg.com
+kt-prod.ess.apple.com
+smp-device-content.apple.com
+downloaddispatch.itunes.apple.com
+fbs.smoot.apple.com
+weather-map2.apple.com
+comm-cohort.ess.apple.com
+tr.iadsdk.apple.com
+netcts.cdn-apple.com
+itunes.apple.com
+gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+apac-in-courier-4.push-apple.com.akadns.net
+mask-api.icloud.com
 #MS and 3rd party
 eu-teams.events.data.microsoft.com
 noam.presence.teams.microsoft.com
@@ -686,9 +703,7 @@ teams-events-data.trafficmanager.net
 eu-office.events.data.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 in.appcenter.ms
-netcts.cdn-apple.com
 mobile.events.data.microsoft.com
-apac-in-courier-4.push-apple.com.akadns.net
 statics.teams.cdn.office.net
 client.wns.windows.com
 www.tm.ak.prd.aadg.trafficmanager.net
