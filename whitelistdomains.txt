@@ -743,3 +743,4 @@ t.me
 cdn.whatsapp.net
 *.cdn.whatsapp.net
 whatsapp.net
+assets.upstox.com
