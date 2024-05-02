@@ -43,8 +43,6 @@ dlv-api.delhivery.com
 javtiful.com
 itsfoss.com
 office.microsoft.com
-star-mini.c10r.facebook.com
-star.c10r.facebook.com
 scontent.xx.fbcdn.net
 external-cph2-1.xx.fbcdn.net
 video-cph2-1.xx.fbcdn.net
@@ -59,6 +57,8 @@ edge-mqtt.facebook.com
 edge-chat.facebook.com
 mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
+star-mini.c10r.facebook.com
+star.c10r.facebook.com
 m.facebook.com
 static.xx.fbcdn.net
 www.facebook.com
@@ -159,7 +159,6 @@ www.bit.ly
 bit.ly
 ow.ly
 example.com
-graph.facebook.com
 www.redtube.com
 theporndude.com
 spankbang.com
@@ -170,7 +169,6 @@ dxb.to
 www.quora.com
 #api2.branch.io
 spinbot.com
-b-graph.facebook.com
 fulladultmovies.com
 www.apeuni.com
 www.dji.com
@@ -742,5 +740,10 @@ telegram.org
 t.me
 cdn.whatsapp.net
 *.cdn.whatsapp.net
-whatsapp.net
+*.whatsapp.net
+gateway.instagram.com
+b-api.facebook.com
+api.facebook.com
+chat-e2ee-mini.facebook.com
+b-www.facebook.com
 assets.upstox.com
