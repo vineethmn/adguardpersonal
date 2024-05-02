@@ -781,3 +781,8 @@ g-fallback.whatsapp.net
 e2.whatsapp.net
 we0c2afba1-ha4dimbqgm3dema.snr.whatsapp.net
 *.whatsapp.net
+cable.auth.com
+*.auth.com
+init.push-apple.com.akadns.net
+www.whatsapp.com
+*.push-apple.com.akadns.net
