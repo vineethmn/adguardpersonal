@@ -759,3 +759,9 @@ olive.axisbank.com
 api.weather.com
 sb.scorecardresearch.com
 assets.upstox.com
+graph.facebook.com
+graph-fallback.facebook.com
+b-graph.facebook.com
+graph.instagram.com
+graph-fallback.instagram.com
+b-graph.instagram.com
