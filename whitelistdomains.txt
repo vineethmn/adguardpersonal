@@ -74,7 +74,9 @@ external.xx.fbcdn.net
 limited-prod.giphy.map.fastly.net
 external-arn2-1.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
-cdn.fbsbx.com
+*.cdn.fbsbx.com
+*.fbcdn.net
+*.cdninstagram.com
 lm.facebook.com
 media4.giphy.com
 l.facebook.com
@@ -746,4 +748,14 @@ b-api.facebook.com
 api.facebook.com
 chat-e2ee-mini.facebook.com
 b-www.facebook.com
+assets.upstox.com
+*.mapmyindia.com
+mmi-explore-images.s3.ap-south-1.amazonaws.com
+instagram.c10r.instagram.com
+apibankingone.icicibank.com
+axisbank.demdex.net
+axisbank.tt.omtrdc.net
+olive.axisbank.com
+api.weather.com
+sb.scorecardresearch.com
 assets.upstox.com
