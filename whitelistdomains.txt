@@ -786,3 +786,9 @@ cable.auth.com
 init.push-apple.com.akadns.net
 www.whatsapp.com
 *.push-apple.com.akadns.net
+ims.windy.com
+tiles.windy.com
+www.windy.com
+rdr.windy.com
+alb.reddit.com
+e.reddit.com
