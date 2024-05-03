@@ -623,7 +623,6 @@ icloud-content.com
 mask.icloud.com
 mask-api.icloud.com
 mask-h2.icloud.com
-metrics.icloud.com
 setup.icloud.com
 statici.icloud.com
 www-mail.icloud-sandbox.com
