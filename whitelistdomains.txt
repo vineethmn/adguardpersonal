@@ -1,3 +1,4 @@
+wpad.bbrouter
 soft-babez.cc
 data.emb-api.com
 config.emb-api.com
@@ -758,6 +759,9 @@ olive.axisbank.com
 api.weather.com
 sb.scorecardresearch.com
 assets.upstox.com
+completion.amazon.in
+cdn.fbsbx.com
+cdn-fallback.fbsbx.com
 graph.facebook.com
 graph-fallback.facebook.com
 b-graph.facebook.com
