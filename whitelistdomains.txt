@@ -794,3 +794,4 @@ rdr.windy.com
 alb.reddit.com
 e.reddit.com
 completion.amazon.in
+m.media-amazon.com
