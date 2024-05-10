@@ -793,5 +793,8 @@ www.windy.com
 rdr.windy.com
 alb.reddit.com
 e.reddit.com
+static.licdn.com
+media.licdn.com
 completion.amazon.in
+platform.linkedin.com
 m.media-amazon.com
