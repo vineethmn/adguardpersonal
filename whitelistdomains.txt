@@ -759,7 +759,6 @@ olive.axisbank.com
 api.weather.com
 sb.scorecardresearch.com
 assets.upstox.com
-completion.amazon.in
 cdn.fbsbx.com
 cdn-fallback.fbsbx.com
 graph.facebook.com
