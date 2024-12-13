@@ -1083,3 +1083,4 @@ cdn.jsdelivr.net
 mercury-t2.phonepe.com
 fullxcinema.com
 hdzog.com
+jnn-pa.googleapis.com
