@@ -1,39 +1,50 @@
-# Adult Swim Videos on Amazon Firestick
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
+reminders-pa.googleapis.com
+firestore.googleapis.com
+gstaticadssl.l.google.com
+googleapis.l.google.com
+dl.google.com
+msedge.api.cdp.microsoft.com
+www.msftncsi.com
+www.appleiphonecell.com
+gsp1.apple.com
+ipv6.msftncsi.com
+api-tv.spotify.com
+upload.facebook.com
+connect.facebook.com
+fb.me
+bigzipfiles.facebook.com
+scontent-atl3-1.xx.fbcdn.net
+external-ort2-1.xx.fbcdn.net
+scontent-ort2-1.xx.fbcdn.net
+scontent-mia3-1.xx.fbcdn.net
+l.messenger.com
+logs.juspay.in
+chtbl.com
+tracking-protection.cdn.mozilla.net
+gdlp01.c-wss.com
+wa.me
+www.wa.me
 pmd.cdn.turner.com
 i.cdn.turner.com
 s.cdn.turner.com
 z.cdn.turner.com
 amd.cdn.turner.com
-
-# Amazon Alexa and Amazon Shopping app
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-
-# Amazon Kindle
 cognito-identity.us-east-1.amazonaws.com
-unagi-na.amazon.com
 ocsp.rootg2.amazontrust.com
 det-ta-g7g.amazon.com
 todo-ta-g7g.amazon.com
-device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
-
-# Amazon AWS (???) - whitelist to make Kryptonite work
 sqs.us-east-1.amazonaws.com
-
-# Bild.de
 acdn.adnxs.com
 cdn1.smartadserver.com
 ec-ns.sascdn.com
-
-# DirectTV Now
 js.maxmind.com
 directvnow.com
 directvapplications.hb.omtrdc.net
 s.zkcdn.net
-
-# Facebook
 creative.ak.fbcdn.net
 external-lhr0-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
@@ -47,17 +58,12 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 fbcdn-creative-a.akamaihd.net
-graph.facebook.com
-graph.instagram.com
 instagram.c10r.facebook.com
 scontent-lhr3-1.xx.fbcdn.net
-scontent.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 facebook.com
 facebook.net
 fbcdn.net
-cdn.fbsbx.com
-edge-mqtt.facebook.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
 2-edge-chat.facebook.com
@@ -65,22 +71,10 @@ edge-mqtt.facebook.com
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
 6-edge-chat.facebook.com
-edge-chat.facebook.com
-mqtt-mini.facebook.com
-
-# Fix - Images not loading on www.thecut.com
 pixel.nymag.com
-
-# GeForce Experience
 events.gfe.nvidia.com
-gfwsl.geforce.com
-
-# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
 prod.telemetry.ros.rockstargames.com
-
-# Host files
 hosts-file.net
-raw.githubusercontent.com
 v.firebog.net
 hostsfile.org
 someonewhocares.org
@@ -89,66 +83,17 @@ winhelp2002.mvps.org
 sysctl.org
 pgl.yoyo.org
 zeustracker.abuse.ch
-
-# Images not loading on aliexpress.com
-ae01.alicdn.com
-
-# Jackbox.tv
 www.google-analytics.com
 google-analytics.com
 ssl.google-analytics.com
-
-# Lotus talk
 lotustalk.com
 www.lotustalk.com
-
-# National Express, UK (nationalexpress.com/en) - Unable to book journey
 cdns.gigya.com
-
-# Netflix - Domains needed for netlix to work correctly
 api-global.netflix.com
 appboot.netflix.com
 secure.netflix.com
-
-# NowTV UK - AppleTV
 dpm.demdex.net
-
-# Nvidia updates
 ota-downloads.nvidia.com
-
-# Pluto.tv
-images.pluto.tv
-stitcher.pluto.tv
-siloh.pluto.tv
-silo.pluto.tv
-cdn-mobile.api.pluto.tv
-api.pluto.tv
-players.pluto.tv
-
-# Roku HGTV app: Failed to play previous episodes
-dcs-vod.apis.anvato.net
-
-# Roku TNT app: Failed to play videos
-z.cdn.turner.com
-manifest.auditude.com
-
-# Refersion.com (affiliate marketing)
-cdn.refersion.com
-refersion.com
-www.refersion.com
-
-# Roku TV CW and NBC app
-cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-redirector.googlevideo.com
-
-# Samsung TV's Amazon Prime Video app
-time.samsungcloudsolution.com
-
-# Samsung smart TV's network issue
-cdn.samsungcloudsolution.com
-
-# SBS Online videos not playing
 www.sbs.com.au
 sbs.com.au
 api.sbs.com.au
@@ -160,60 +105,18 @@ link.theplatform.com
 e7065.e2.akamaiedge.net
 a463.w10.akamai.net
 a790.w16.akamai.net
-
-# Share buttons on websites
 dsms0mj1bbhn4.cloudfront.net
 shareaholic.com
-
-# Sky Go (skygo.sky.de)
-assets.adobedtm.com
-
-# Spotify premium with Denon Heos speakers
-# https://github.com/anudeepND/whitelist/issues/93
 mobile-ap.spotify.com
 apresolve.spotify.com
 upgrade.scdn.com
 market.spotify.com
-spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
-
-# Target's Weekly Ads
-weeklyad.target.com
-m.weeklyad.target.com
-weeklyad.target.com.edgesuite.net
-
-# UK University application website
-# https://github.com/anudeepND/whitelist/issues/30
-track.ucas.com
-# URL shorteners
-t.ly
 adf.ly
 www.adf.ly
-bit.ly
-www.bit.ly
 goo.gl
-ow.ly
 www.ow.ly
-amzn.to
 amzn.com
-# Videos not playing on  arstechnica/wired/vogue/newyorker
-# Note: ads before videos may appear after whitelisting this domain
-d2c8v52ll5s99u.cloudfront.net
-# Videos not playing on www.jacquielawson.com
-f1.media.brightcove.com
-# WatchESPN
-fpdownload.adobe.com
-entitlement.auth.adobe.com
-livepassdl.conviva.com
-# Xbox Achievements and game stats sync
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-# streamelements.com (Blocked by Pi-hole regex)
-stats.streamelements.com
-# Adobe licence verification endpoints
-lm.licenses.adobe.com
-activate.adobe.com
-#***************
 wpad.bbrouter
 soft-babez.cc
 data.emb-api.com
@@ -688,19 +591,19 @@ noam.presence.teams.microsoft.com
 pub-ent-auea-06-t.trouter.teams.microsoft.com
 pub-ent-krce-04-t.trouter.teams.microsoft.com
 api.flightproxy.teams.microsoft.com
-outlook.office365.com 
-products.office.com 
-c.s-microsoft.com 
-i.s-microsoft.com 
-login.live.com 
-dl.delivery.mp.microsoft.com 
-geo-prod.do.dsp.mp.microsoft.com 
-sls.update.microsoft.com.akadns.net 
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
 settings-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
-spclient.wg.spotify.com apresolve.spotify.com
+spclient.wg.spotify.com
 www.redditstatic.com
 www.redgifs.com
 #apple
@@ -810,7 +713,7 @@ skl.apple.com
 smoot.apple.com
 s-mzstatic-applak.itunes-apple.com.akadns.net
 sq-device.apple.com
-static.ips.apple.com       
+static.ips.apple.com
 stats.gc.fe.apple-dns.net
 stocks-analytics-events.news.apple-dns.net
 suconfig.apple.com
@@ -901,7 +804,7 @@ gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 apac-in-courier-4.push-apple.com.akadns.net
 mask-api.icloud.com
-#MS and 3rd party
+#MS
 eu-teams.events.data.microsoft.com
 noam.presence.teams.microsoft.com
 pub-ent-auea-06-t.trouter.teams.microsoft.com
@@ -1120,3 +1023,63 @@ oneclient.sfx.ms
 cdntm.hsbc.co.in
 sdk.split.io
 cdn.jsdelivr.net
+radar.cedexis.com
+d2r1yp2w7bby2u.cloudfront.net
+in1.clevertap-prod.com
+aagmaal.click
+archive.org
+init.itunes.apple.com
+*.wu.com
+cdn.jwplayer.com
+p16-cc-sg.ibyteimg.com
+www.aliexpress.com
+www.aliexpress.us
+recom-acs.aliexpress.com
+acs.aliexpress.com
+assets.alicdn.com
+ae01.alicdn.com
+is.alicdn.com
+g.alicdn.com
+openload.co
+cdn.tsyndicate.com
+tsyndicate.com
+developer.jwplayer.com
+pay.jio.com
+myjio-gateway.jio.com
+se-edge.itunes.apple.com
+b.cdnst.net
+www.reddit.com
+cdn.search.brave.com
+normandy.cdn.mozilla.net
+imgs.search.brave.com
+locate.measurementlab.net
+safebrowsing.googleapis.com
+telephonyspamprotect-pa.googleapis.com
+play.googleapis.com
+fast.com
+ab.chatgpt.com
+chatgpt.com
+cdn.oaistatic.com
+play-fe.googleapis.com
+android.googleapis.com
+imgur.com
+www.usps.com
+tools.usps.com
+substrate.office.com
+loki.delve.office.com
+disc501.prod.do.dsp.mp.microsoft.com
+oneclient.sfx.ms
+cdntm.hsbc.co.in
+sdk.split.io
+cdn.jsdelivr.net
+*.blogspot.com
+*.sendgrid.com
+*.sendgrid.net
+*.min.io
+*.tplinknbu.com
+*.tplinkcloud.com
+*.tp-link.com
+*.phonepe.com
+mercury-t2.phonepe.com
+fullxcinema.com
+hdzog.com
