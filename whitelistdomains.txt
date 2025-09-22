@@ -1102,7 +1102,6 @@ aott3jpy7.accounts.ondemand.com
 mask-canary.icloud.com
 www.alliance4creativity.com
 email.auth0.cloudsecurityalliance.org
-ogads-pa.clients6.google.com
 streetviewpixels-pa.googleapis.com
 maps.gstatic.com
 maps-api-ssl.google.com
