@@ -50,3 +50,8 @@ firebaselogging-pa.googleapis.com
 apptrailers.itunes.g.aaplimg.com
 apptrailers.itunes.apple.com
 e3925.dscx.akamaiedge.net
+ad-delivery.net
+id.rlcdn.com
+tpc.googlesyndication.com
+ogads-pa.clients6.google.com
+waa-pa.clients6.google.com
